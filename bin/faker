@@ -7,7 +7,7 @@ var echo = console.log
 
 if (!croak) {
   echo('Ups! Seems like Croak wasn\'t installed')
-  echo('\You must install it. Run:\nnpm install croak -g')
+  echo('You must install it. Run:\nnpm install croak -g')
   process.exit(1)
 }
 
