@@ -5,7 +5,7 @@
 ## About
 
 
-<img align="right" height="280" src="http://oi39.tinypic.com/2qmf5gh.jpg" style="float: right" />
+<img align="right" height="180" src="http://oi39.tinypic.com/2qmf5gh.jpg" />
 
 
 If you decide to use [Croak][croak] in your project, that's fantastic!!
