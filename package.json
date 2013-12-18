@@ -19,7 +19,7 @@
   "main": "bin/faker",
   "directories": {},
   "bin": {
-    "grunt": "./bin/faker"
+    "grunt2": "./bin/faker"
   },
   "engines": {
     "node": ">= 0.8.0"

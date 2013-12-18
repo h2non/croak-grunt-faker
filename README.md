@@ -22,6 +22,11 @@ This is an ideal choice for project-isolated execution environments
 
 #### Behind the scenes
 
+Remove the grunt-cli package if it was installed
+```
+$ npm remove grunt-cli -g
+```
+
 Install Croak instead of Grunt, if you don't have it already installed
 ```
 $ npm install croak -g
