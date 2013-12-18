@@ -1,6 +1,6 @@
 # Croak Grunt Faker
 
-> Be naughty, avoid FUD from developers and tell them they are using Grunt
+> Be naughty, avoid FUD from developers and tell them they are using Grunt instead of Croak
 
 ## About
 
