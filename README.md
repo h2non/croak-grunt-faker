@@ -4,9 +4,7 @@
 
 ## About
 
-
-<img align="right" height="170" src="http://oi39.tinypic.com/2qmf5gh.jpg" style="margin: 10px" />
-
+<img align="right" height="165" src="http://oi39.tinypic.com/2qmf5gh.jpg" />
 
 If you decide to use [Croak][croak] in your project, that's fantastic!!
 but maybe the use of new tools can generate a bit of [FUD][fud] to the developers
