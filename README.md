@@ -5,22 +5,22 @@
 ## About
 
 
-<img align="right" height="180" src="http://oi39.tinypic.com/2qmf5gh.jpg" />
+<img align="right" height="170" src="http://oi39.tinypic.com/2qmf5gh.jpg" style="margin: 10px" />
 
 
 If you decide to use [Croak][croak] in your project, that's fantastic!!
 but maybe the use of new tools can generate a bit of [FUD][fud] to the developers
 
-This packages allows you to be naughty guy and makes the Croak CLI will 
-looks like the native [Grunt][grunt] [CLI][gruntcli], making Croak really transparent to the end developer
+This packages allow you to be naughty and makes the Croak CLI look like 
+the native [Grunt][grunt] [CLI][gruntcli], making Croak really transparent to the end developer
 
 ## How to proceed
 
 **IMPORTANT**
 
-This is a totalitary solution, Croak Grunt faker will replace the native Grunt binary,
-all your projects should pass over Croak instead of Grunt, so you can't use Grunt in plain. 
-This is an ideal choice in project-isolated context execution environments
+This is a totalitary solution as Croak Grunt faker will replace the native Grunt binary. 
+All of your projects should use Croak instead of Grunt, so you can't use Grunt CLI directly. 
+This is an ideal choice for project-isolated execution environments
 
 #### Behind the scenes
 
@@ -46,7 +46,7 @@ $ npm install croak-grunt-faker -g
 $ grunt im so happy with it --debug --stack
 ```
 
-The above will be internally translated into the Croak CLI
+The above command will be translated into a the Croak CLI as:
 ```
 $ croak run im so happy with it --debug --stack
 ```
