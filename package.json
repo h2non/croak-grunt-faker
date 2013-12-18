@@ -1,6 +1,6 @@
 {
   "name": "croak-grunt-faker",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Be naughty, avoid FUD from developers and tell them they are using Grunt",
   "preferGlobal": true,
   "homepage": "http://github.com/h2non/croak-grunt-faker",
