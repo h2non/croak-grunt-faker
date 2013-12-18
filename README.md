@@ -41,12 +41,17 @@ $ npm install croak-grunt-faker -g
 #### Lie to them
 
 ```
-$ grunt im so happy with it --debug --stack
+$ grunt iam so happy with it --debug --stack
 ```
 
 The above command will be translated into a the Croak CLI as:
 ```
-$ croak run im so happy with it --debug --stack
+$ croak run iam so happy with it --debug --stack
+```
+
+Check if you are faked (and keep it in secret):
+```
+$ grunt --iam-faked
 ```
 
 ## License

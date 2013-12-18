@@ -16,10 +16,8 @@
     "url": "https://github.com/h2non/croak-grunt-faker.git"
   },
   "licenses": "WTFPL",
-  "main": "lib/faker",
-  "directories": {
-    "lib": "./lib"
-  },
+  "main": "bin/faker",
+  "directories": {},
   "bin": {
     "grunt": "./bin/faker"
   },
