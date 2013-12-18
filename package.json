@@ -1,0 +1,34 @@
+{
+  "name": "croak-grunt-faker",
+  "version": "0.1.0",
+  "description": "Be naughty, avoid FUD from developers and tell them they are using Grunt",
+  "preferGlobal": true,
+  "homepage": "http://github.com/h2non/croak-grunt-faker",
+  "bugs": "https://github.com/h2non/croak-grunt-faker/issues",
+  "contributors": [
+    {
+      "name": "Tomas Aparicio",
+      "email": "tomas@aparicio.me"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/h2non/croak-grunt-faker.git"
+  },
+  "licenses": "WTFPL",
+  "main": "lib/faker",
+  "directories": {
+    "lib": "./lib"
+  },
+  "bin": {
+    "grunt": "./bin/faker"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "dependencies": {
+    "requireg": "~0.1.1"
+  },
+  "devDependencies": {
+  }
+}
