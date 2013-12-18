@@ -22,11 +22,6 @@ This is an ideal choice for project-isolated execution environments
 
 #### Behind the scenes
 
-Remove the grunt-cli package if it was installed
-```
-$ npm remove grunt-cli -g
-```
-
 Install Croak instead of Grunt, if you don't have it already installed
 ```
 $ npm install croak -g
@@ -38,6 +33,11 @@ $ croak init -g
 ```
 
 #### Install the faker
+
+Be sure you previously remove the `grunt-cli` package
+```
+$ npm remove grunt-cli -g
+```
 
 ```
 $ npm install croak-grunt-faker -g
