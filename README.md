@@ -49,7 +49,7 @@ $ npm install croak-grunt-faker -g
 $ grunt iam so happy with it --debug --stack
 ```
 
-The above command will be translated into a the Croak CLI as:
+The above command will be translated into the Croak CLI as:
 ```
 $ croak run iam so happy with it --debug --stack
 ```
