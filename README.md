@@ -7,7 +7,7 @@
 <img align="right" height="165" src="http://oi39.tinypic.com/2qmf5gh.jpg" />
 
 If you decide to use [Croak][croak] in your project, that's fantastic!!
-but maybe the use of new tools can generate a bit of [FUD][fud] to the developers
+but maybe introduce a new development tools can generate a bit of [FUD][fud] to the developers
 
 This packages allow you to be naughty and makes the Croak CLI look like 
 the native [Grunt][grunt] [CLI][gruntcli], making Croak really transparent to the end developer
