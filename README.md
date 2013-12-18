@@ -1,14 +1,18 @@
 # Croak Grunt Faker
 
-> Be naughty, avoid FUD from developers and tell them they are using [Grunt][grunt]
+> Be naughty, avoid FUD from developers and tell them they are using Grunt
 
 ## About
+
+
+<img align="right" height="280" src="http://oi39.tinypic.com/2qmf5gh.jpg" style="float: right" />
+
 
 If you decide to use [Croak][croak] in your project, that's fantastic!!
 but maybe the use of new tools can generate a bit of [FUD][fud] to the developers
 
 This packages allows you to be naughty guy and makes the Croak CLI will 
-looks like the native [Grunt CLI][gruntcli], making Croak really transparent to the end developer
+looks like the native [Grunt][grunt] [CLI][gruntcli], making Croak really transparent to the end developer
 
 ## How to proceed
 
@@ -46,8 +50,6 @@ The above will be internally translated into the Croak CLI
 ```
 $ croak run im so happy with it --debug --stack
 ```
-
-<img align="right" height="280" src="http://oi39.tinypic.com/2qmf5gh.jpg" style="float: right" />
 
 ## License
 
