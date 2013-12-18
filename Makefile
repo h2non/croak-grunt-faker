@@ -17,13 +17,13 @@ endef
 install link:
 	@npm $@
  
-release: build test
+release:
 	@$(call release,patch)
  
-release-minor: build test
+release-minor:
 	@$(call release,minor)
  
-release-major: build test
+release-major:
 	@$(call release,major)
  
 publish:
