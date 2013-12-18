@@ -49,7 +49,7 @@ The above command will be translated into a the Croak CLI as:
 $ croak run iam so happy with it --debug --stack
 ```
 
-Check if you are faked (and keep it in secret):
+Check if Grunt is fake (and keep it secret):
 ```
 $ grunt --iam-faked
 ```
